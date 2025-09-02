@@ -1,3 +1,2 @@
 # HelloCSharp
-First project for SWE1
-Created 09/01/2025
+First project for SWE1, created 09/01/2025
